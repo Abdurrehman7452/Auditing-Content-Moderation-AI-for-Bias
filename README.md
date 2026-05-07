@@ -32,8 +32,6 @@ The work covers:
 
 ## Part-by-Part Requirements Coverage and Results
 
-> Note: `assignment_2.pdf` was not present in this workspace at the time of README generation, so requirement mapping below is reconstructed directly from completed notebook artifacts and outputs.
-
 ### Part 1 - Baseline Model + Threshold Selection
 
 Implemented:
